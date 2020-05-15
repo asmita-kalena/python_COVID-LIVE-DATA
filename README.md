@@ -2,7 +2,7 @@
 
 Current COVID-19 pandemic live updates using python and display into a bar chart
 
-# Running this project on python3.4.3 version
+# This project is running on python3.4.3 version
 
 # Installed packages:
 
@@ -17,6 +17,13 @@ Current COVID-19 pandemic live updates using python and display into a bar chart
 # To install in Linux/Ubuntu follow these commands:
 
 $ pip install bs4
+
 $ pip install tabulate
+
 $ pip install matplotlib
+
 $ pip install numpy
+
+# Enjoy CODING! :)
+
+Feel free to add PR for more charts to display COVID-19 live data. This project have BAR chart. Donut chart is in-progress.
